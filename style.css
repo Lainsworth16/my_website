@@ -1,3 +1,13 @@
 .social {
   padding-top: 30px;
 }
+
+.test {
+  color: teal;font-size:30px;
+}
+.test2 {
+  color:blue;font-size:40px;font-style: oblique;
+}
+.test3 {
+  color:slateBlue;font-size:60px;
+}
